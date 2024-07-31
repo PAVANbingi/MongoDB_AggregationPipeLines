@@ -87,9 +87,9 @@ The `$lookup` stage performs a left outer join to a collection in the same datab
 ### Repository Structure
 
 - **/json_files**: This directory contains all the JSON files used for the aggregation pipelines.
-- **/aggregation_examples**: This directory contains examples of different aggregation stages and their explanations.
+
 - **README.md**: The main documentation file providing an overview of the repository and instructions on how to use it.
-- **aggregation_stages.md**: A detailed markdown file explaining each aggregation stage, with examples and outputs.
+- **aggregation_stages.md**(https://github.com/PAVANbingi/MongoDB_AggregationPipeLines/blob/main/aggregation_stages.md): A detailed markdown file explaining each aggregation stage, with examples and outputs.
 - **crud_operations.md**: A markdown file explaining various CRUD operations in MongoDB, with examples and outputs.
 
 
