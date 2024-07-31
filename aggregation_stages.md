@@ -2,7 +2,7 @@ Sure! Let's create a comprehensive README.md file for your MongoDB aggregation p
 
 ### README.md
 
-```markdown
+
 # MongoDB Aggregation Pipelines
 
 This repository contains JSON files for various MongoDB aggregation pipelines. These pipelines demonstrate how to use different aggregation stages and operations to process and analyze data.
