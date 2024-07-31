@@ -1,6 +1,8 @@
 
 
-# MongoDB Aggregation Pipelines Repository
+# Hi, aliens! I am [Pavan](https://github.com/PAVANbingi). So in this [repository](https://github.com/PAVANbingi/MongoDB_AggregationPipeLines), I will explain all the aggregation stages in depth with basic examples. I will also include links to resources for further learning.
+
+So this  MongoDB Aggregation Pipelines Repository contains JSON files for various MongoDB aggregation pipelines. These pipelines demonstrate how to use different aggregation stages and operations to process and analyze data.
 
 ## Overview
 
